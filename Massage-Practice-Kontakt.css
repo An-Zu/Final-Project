@@ -33,3 +33,15 @@ li {
     margin: 5 50 5 50;
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+  }
+
+::-webkit-scrollbar-track {
+    background: white;; 
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background:#d0cfcf; 
+    border-radius: 20px;
+  }
