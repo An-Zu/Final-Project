@@ -20,7 +20,8 @@ body {
 
 .content {
     margin: 60 90 60 90;
-    text-align: left;
+    text-align: center;
+    font-weight: bold;
 }
 
 .footer {
@@ -32,9 +33,4 @@ li {
     display: inline-block;
     margin: 5 50 5 50;
 }
-
-#praxis {
-    text-decoration: underline;
-}
-
 

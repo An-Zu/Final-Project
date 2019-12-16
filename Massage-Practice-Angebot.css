@@ -33,18 +33,6 @@ li {
     margin: 5 50 5 50;
 }
 
-/* width */
-::-webkit-scrollbar {
-    width: 8px;
-  }
-
-  /* Track */
-::-webkit-scrollbar-track {
-    background: white;; 
-  }
-   
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background:#d0cfcf; 
-    border-radius: 20px;
-  }
+#angebot {
+    text-decoration: underline;
+}
