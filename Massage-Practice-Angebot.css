@@ -33,6 +33,16 @@ li {
     margin: 5 50 5 50;
 }
 
+.box {
+    background-color: green;
+    height: 200px;
+}
+
+.classic {
+    display: flex;
+    direction: row;
+}
+
 #angebot {
     text-decoration: underline;
 }
